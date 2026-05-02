@@ -29,3 +29,6 @@ class UserManager:
 if __name__ == "__main__":
     manager = UserManager()
     print("User Management System initialized")
+# Basic authentication placeholder
+def login(username, password):
+    return f"{username} logged in"
